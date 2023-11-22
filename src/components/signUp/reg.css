@@ -1,0 +1,7 @@
+.imageB {
+    background-image: url('/public/images/image3.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    /* Add other styles for the component */
+  }
+  
